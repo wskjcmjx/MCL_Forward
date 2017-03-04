@@ -10,7 +10,7 @@ As we described above, the implementation is able to be divided into 2 parts: CP
 - [Intel® MKL-DNN](https://github.com/01org/mkl-dnn)
 - [Intel® MPI](https://software.intel.com/en-us/intel-mpi-library)
 - [CUDA8.0](https://developer.nvidia.com/cuda-toolkit)
-- [cuDNNv5](https://developer.nvidia.com/cudnn)
+- [cuDNNv5.1](https://developer.nvidia.com/cudnn)
 - cuBLAS
 
 ##Features
